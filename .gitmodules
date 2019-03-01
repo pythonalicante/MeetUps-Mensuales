@@ -1,0 +1,3 @@
+[submodule "febrero"]
+	path = febrero
+	url = https://github.com/serfer2/python-deepweb
