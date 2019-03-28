@@ -32,3 +32,21 @@ configuración del agente de Tor para Linux y una demostración de cómo podemos
 controlarlo desde nuestras aplicaciones Python.
 
 También se vio como levantar, con Python, un servicio oculto en la red TOR.
+
+## MeetUp Marzo
+
+_Charla_:
+[Aprende Django con...](https://goo.gl/QEqJ4W)
+
+_Ponente_: Gabriel Flores
+
+Nos contó como hacer una aplicación Django desde el principio
+
+Primeros pasos con Django
+    - Que es Django
+    - Install Django
+    - Conceptos básicos de Django
+    - Construyendo con Django
+
+La charla esta en Google Drive, el enlace esta en el título de la charla
+
