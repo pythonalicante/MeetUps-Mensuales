@@ -50,3 +50,16 @@ Primeros pasos con Django
 
 La charla esta en Google Drive, el enlace esta en el título de la charla
 
+## MeetUp Abril
+
+- No hubo charla
+
+## MeetUp Mayo
+
+_Charla_: [Python y Testing](https://drive.google.com/file/d/1tep1wtwG_nfxQ6SYD83FKIR7pe2nkKrg/view)
+
+_Ponente_: [Joanna García](www.linkedin.com/in/joannagarcia/)
+
+No contó como usa ella Python en el día a día de su trabajo y como le ayudó a testear y automatizar el proceso de tests.
+
+La charla esta en Google Drive, el enlace esta en el título de la charla
