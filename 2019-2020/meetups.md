@@ -1,6 +1,6 @@
 # MeetUps 2019-2020
 
-## MeetUp Diciembre
+## [MeetUp Diciembre](diciembre/PyDayZBH.pdf)
 
 _Charla_: Desde imágenes RGB a mapas de profundidad pasando por redes convolucionales profundas
 
@@ -8,7 +8,7 @@ _Ponente_: [Zuria Bauer](https://twitter.com/zuriich92)
 
 Nos contó su experiencia y trabajo con Python y Machine Learning.
 
-## MeetUp Enero
+## [MeetUp Enero](enero/Evolución%20de%20un%20programador%20amateur%20hasta%20Python%20(public).pptx)
 
 _Charla_: Evolución de un programador amateur hasta Python
 
@@ -18,7 +18,7 @@ Nos contó su experiencia y trabajo con Python. Como se inicio sin ser
 informático en la programación y lo que ha supuesto laboralmente saber
 programar.
 
-## MeetUp Febrero
+## [MeetUp Febrero](febrero/README.md)
 
 _Charla_:
 Python en la Deep Web, caso practico
@@ -31,7 +31,7 @@ controlarlo desde nuestras aplicaciones Python.
 
 También se vio como levantar, con Python, un servicio oculto en la red TOR.
 
-## MeetUp Marzo
+## [MeetUp Marzo](https://goo.gl/QEqJ4W)
 
 _Charla_:
 [Aprende Django con...](https://goo.gl/QEqJ4W)
@@ -48,11 +48,8 @@ Primeros pasos con Django
 
 La charla esta en Google Drive, el enlace esta en el título de la charla
 
-## MeetUp Abril
 
-- No hubo charla
-
-## MeetUp Mayo
+## [MeetUp Mayo](https://drive.google.com/file/d/1tep1wtwG_nfxQ6SYD83FKIR7pe2nkKrg/view)
 
 _Charla_: [Python y Testing](https://drive.google.com/file/d/1tep1wtwG_nfxQ6SYD83FKIR7pe2nkKrg/view)
 
