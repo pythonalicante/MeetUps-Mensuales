@@ -18,7 +18,7 @@ Nos contó su experiencia y trabajo con Python. Como se inicio sin ser
 informático en la programación y lo que ha supuesto laboralmente saber
 programar.
 
-## [MeetUp Febrero](febrero/README.md)
+## [MeetUp Febrero](https://github.com/serfer2/python-deepweb/blob/0c2055414b7e4f53342e096b9e7e2a1047040c77/README.md)
 
 _Charla_:
 Python en la Deep Web, caso practico
